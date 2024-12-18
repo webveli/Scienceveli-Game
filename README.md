@@ -39,12 +39,11 @@ The game is built using a variety of tools and technologies to ensure smooth gam
 4. **Expand and Grow**: Reinvest your earnings to purchase larger farms and higher-value assets, increasing your Bitcoin earnings exponentially.
 
 ---
-
 ## **Links and Resources**:
 
-- [Visit the WebVeli Facebook Page](https://www.facebook.com/webveli)
-- [Support Us on BuyMeACoffee](https://buymeacoffee.com/makavael)
-- [Contact Us on WhatsApp](https://wa.me/201029107547)
+- [![Facebook](https://img.icons8.com/ios-filled/50/000000/facebook.png)](https://www.facebook.com/webveli) Visit the WebVeli Facebook Page
+- [![BuyMeACoffee](https://img.icons8.com/ios-filled/50/000000/coffee.png)](https://buymeacoffee.com/makavael) Support Us on BuyMeACoffee
+- [![WhatsApp](https://img.icons8.com/ios-filled/50/000000/whatsapp.png)](https://wa.me/201029107547) Contact Us on WhatsApp
 
 ---
 
