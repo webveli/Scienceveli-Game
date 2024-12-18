@@ -26,7 +26,7 @@ The game is built using a variety of tools and technologies to ensure smooth gam
 | **Flutter** | Framework for building smooth and responsive mobile versions of the game (for both Android and iOS). | ![Flutter](https://img.icons8.com/color/48/000000/flutter.png) |
 | **C++** | Used for implementing certain in-game algorithms that require high performance. | ![C++](https://img.icons8.com/ios-filled/50/000000/c-plus-plus-logo.png) |
 | **HTML** | The structure for the game's web-based user interface, providing a seamless experience. | ![HTML](https://img.icons8.com/ios-filled/50/000000/html-5.png) |
-| **Dark** | A specialized language for building efficient and secure web applications. | ![Dark](https://img.icons8.com/color/48/000000/code-igniter.png) |
+| **Dark** | A specialized language for building efficient and secure web applications. | ![Dark](https://img.icons8.com/ios-filled/50/000000/laptop.png) |
 | **Python** | Used for developing advanced AI algorithms that simulate real-world economic decisions in the game. | ![Python](https://img.icons8.com/color/48/000000/python.png) |
 
 ---
