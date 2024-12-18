@@ -31,6 +31,11 @@ The game is built using a variety of tools and technologies to ensure smooth gam
 
 ---
 
+## **Watch the Game in Action**:
+
+- [![Watch Game Video 1](https://img.icons8.com/ios-filled/50/000000/video-playlist.png)](https://www.youtube.com/watch?v=LW7vQp-lWfY) Watch the game in action (Video 1)
+- [![Watch Game Video 2](https://img.icons8.com/ios-filled/50/000000/video-playlist.png)](https://www.youtube.com/watch?v=LW7vQp-lWfY) Watch the game in action (Video 2)
+
 ## **How to Play**:
 
 1. **Start Your Farm**: Buy a piece of land and begin cultivating crops that generate Bitcoin.
